@@ -1,0 +1,182 @@
+The currect Folder's content is written down in the Tree structured File FolderInfo.txt and looks like below: 
+|   *.gitignore
+|---.idea|
+|   *.gitignore
+|   *dbnavigator.xml
+|   *Java-Training-main.iml
+|   *misc.xml
+|   *modules.xml
+|   *workspace.xml
+|   *Java-Training.iml
+|   *LICENSE
+|---out|
+	|---production|
+		|---Java-Training|
+			|---by|
+				|---epam|
+					|---learn|
+						|---Airport|
+						|   *AircraftThread.class
+						|   *AirportManagement.class
+						|   *Terminal.class
+						|   *TerminalList.class
+						|---collectionsCD|
+						|   *AudioCD.class
+						|   *AudioCDMain.class
+						|   *AudioTrack.class
+							|---idea|
+							|   *misc.xml
+							|   *modules.xml
+							|   *workspace.xml
+						|---collectionsNumberStack|
+						|   *NumberStack.class
+						|---collectionsStringsMain|
+						|   *StringsMain.class
+						|---entityBooks|
+						|   *Book.class
+						|   *BookList.class
+						|   *BookListMain.class
+						|---fundamentalsMain|
+						|   *IntArgsMain.class
+						|   *MonthMain.class
+						|   *NumbersMain.class
+						|   *OutArgsMain.class
+						|   *RandomMain.class
+						|   *SaluteMain.class
+						|   *SortNumbers.class
+						|---io|
+						|   *CountFilesClass.class
+						|   *DirectoryContentMain.class
+						|   *TreeStructuredFileCreator.class
+						|---University|
+						|   *Discipline.class
+						|   *Faculty.class
+						|   *FacultyList.class
+						|   *Group.class
+						|   *Student.class
+						|   *UniversityInfoReceiver.class
+						|   *UniversityManager.class
+						|---UniversityExceptions|
+						|   *DisciplineAbsenceException.class
+						|   *FacultyAbsenceException.class
+						|   *GroupAbsenceException.class
+						|   *MarkValueException.class
+						|   *StudentAbsenceException.class
+		|   *FolderInfo.txt
+		|   *inputstrings.txt
+		|   *inversedstrings.txt
+		|---Java-Training-main|
+			|---by|
+				|---epam|
+					|---learn|
+						|---Airport|
+						|   *AircraftThread.class
+						|   *AirportManagement.class
+						|   *Terminal.class
+						|   *TerminalList.class
+						|---collectionsCD|
+						|   *AudioCD.class
+						|   *AudioCDMain.class
+						|   *AudioTrack.class
+							|---idea|
+							|   *misc.xml
+							|   *modules.xml
+							|   *workspace.xml
+						|---collectionsNumberStack|
+						|   *NumberStack.class
+						|---collectionsStringsMain|
+						|   *StringsMain.class
+						|---entityBooks|
+						|   *Book.class
+						|   *BookList.class
+						|   *BookListMain.class
+						|---fundamentalsMain|
+						|   *IntArgsMain.class
+						|   *MonthMain.class
+						|   *NumbersMain.class
+						|   *OutArgsMain.class
+						|   *RandomMain.class
+						|   *SaluteMain.class
+						|   *SortNumbers.class
+						|---io|
+						|   *CountFilesClass.class
+						|   *DirectoryContentMain.class
+						|   *TreeStructuredFileCreator.class
+						|---University|
+						|   *Discipline.class
+						|   *Faculty.class
+						|   *FacultyList.class
+						|   *Group.class
+						|   *Student.class
+						|   *UniversityInfoReceiver.class
+						|   *UniversityManager.class
+						|---UniversityExceptions|
+						|   *DisciplineAbsenceException.class
+						|   *FacultyAbsenceException.class
+						|   *GroupAbsenceException.class
+						|   *MarkValueException.class
+						|   *StudentAbsenceException.class
+|   *README.md
+|---src|
+	|---by|
+		|---epam|
+			|---learn|
+				|---Airport|
+				|   *AircraftThread.java
+				|   *AirportManagement.java
+				|   *Terminal.java
+				|   *TerminalList.java
+				|---collectionsCD|
+				|   *AudioCD.java
+				|   *AudioCDMain.java
+				|   *AudioTrack.java
+					|---idea|
+					|   *misc.xml
+					|   *modules.xml
+					|   *workspace.xml
+				|---collectionsNumberStack|
+				|   *NumberStack.java
+				|---collectionsStringsMain|
+				|   *StringsMain.java
+				|---entityBooks|
+				|   *Book.java
+				|   *BookList.java
+				|   *BookListMain.java
+				|---fundamentalsMain|
+				|   *IntArgsMain.java
+				|   *MonthMain.java
+				|   *NumbersMain.java
+				|   *OutArgsMain.java
+				|   *RandomMain.java
+				|   *SaluteMain.java
+				|   *SortNumbers.java
+				|---io|
+				|   *CountFilesClass.java
+				|   *DirectoryContentMain.java
+				|   *TreeStructuredFileCreator.java
+				|---University|
+				|   *Discipline.java
+				|   *Faculty.java
+				|   *FacultyList.java
+				|   *Group.java
+				|   *Student.java
+				|   *UniversityInfoReceiver.java
+				|   *UniversityManager.java
+				|---UniversityExceptions|
+				|   *DisciplineAbsenceException.java
+				|   *FacultyAbsenceException.java
+				|   *GroupAbsenceException.java
+				|   *MarkValueException.java
+				|   *StudentAbsenceException.java
+|   *FolderInfo.txt
+|   *inputstrings.txt
+|   *inversedstrings.txt
+
+ /src Directory's summarizing info: 
+		Current Directory FolderInfo.txt contains: 
+7 items, including: 
+4 regular files and
+45 SubDirectories;  
+127 - Total regular files in the Directory
+17 - Average file name length in the Directory
+0 - Average number of Files;
